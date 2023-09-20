@@ -1,11 +1,4 @@
 # 😎Hello, I'm Sharad Tiwari
-
-###
-
-<div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
-</div>
-
 ###
 
 ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-%E2%9A%99%EF%B8%8F-blue)
@@ -13,6 +6,12 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40sharadtiwari-informational?style=flat&logo=twitter)](https://twitter.com/SharadT83)
 
 ###
+
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+</div>
 
 <p align="left">✨ I'm a passionate DevOps Engineer<br>📚 I'm constantly learning and staying updated with the latest developments in the DevOps and cloud computing space to enhance my skills and knowledge.<br>🎯 My goal is to become a skilled DevOps Engineer and contribute to building and maintaining cutting-edge infrastructure solutions. I'm dedicated to continuous learning and mastering the tools and practices that drive the DevOps field forward. I aim to play a key role in enabling organizations to achieve greater agility, reliability, and scalability through DevOps principles.</p>
 
