@@ -1,5 +1,13 @@
 # 😎Hello, I'm Sharad Tiwari
 
+###
+
+<div align="center">
+  <img height="200" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"  />
+</div>
+
+###
+
 ![DevOps Engineer](https://img.shields.io/badge/DevOps%20Engineer-%E2%9A%99%EF%B8%8F-blue)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%40sharadtiwari-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/sharad-tiwari-59620516b/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40sharadtiwari-informational?style=flat&logo=twitter)](https://twitter.com/SharadT83)
@@ -43,6 +51,15 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white&style=for-the-badge" height="40" alt="terraform logo"  />
 </div>
+
+###
+
+<div align="center">
+  <img height="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
+
+</div>
+
+###
 
 ###
 
