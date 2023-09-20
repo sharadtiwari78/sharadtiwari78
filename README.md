@@ -33,8 +33,6 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" height="40" alt="ansible logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=for-the-badge" height="40" alt="bitbucket logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CircleCI-343434?logo=circleci&logoColor=white&style=for-the-badge" height="40" alt="circleci logo"  />
